@@ -1,0 +1,5 @@
+{
+  "name": "Nirog",
+  "description": "A modern health-education app promoting preventive healthcare for Indian users through gamified learning, daily wellness habits, and AI-powered guidance.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"]
+}
