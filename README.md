@@ -41,6 +41,14 @@ https://ai.studio/apps/f6e6c423-16e0-4423-a240-271cb2393576
 
 ---
 
+## 🚀 Live Demo
+
+You can view the deployed MVP here:
+
+[https://nirog.vercel.app](https://nirog1.vercel.app/)
+
+---
+
 ## 💻 Run Locally
 
 ### Prerequisites
