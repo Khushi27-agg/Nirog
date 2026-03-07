@@ -37,7 +37,7 @@ The goal of Nirog is to promote **preventive healthcare** by encouraging people 
 This repository contains everything needed to run the app locally.
 
 View the app in AI Studio:
-https://ai.studio/apps/f6e6c423-16e0-4423-a240-271cb2393576
+[https://ai.studio/apps/f6e6c423-16e0-4423-a240-271cb2393576](https://ai.studio/apps/f6e6c423-16e0-4423-a240-271cb2393576?fullscreenApplet=true)
 
 ---
 
